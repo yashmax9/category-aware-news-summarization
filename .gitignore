@@ -1,0 +1,7 @@
+__pycache__/
+*.pt
+*.ckpt
+*.csv
+*.xlsx
+.env
+data/raw/
