@@ -24,6 +24,10 @@ https://zenodo.org/record/17670865
 - `src/` : Training, evaluation, and inference scripts
 - `app/` : Gradio web application
 - `data/` : Dataset description only
+  
+## 🌐 Live Demo (Hugging Face Space)
+You can test the model here:
+https://huggingface.co/spaces/yash222hhh/category-aware-controllable-news-summarization
 
 ## License
 MIT License
