@@ -1,7 +1,7 @@
 __pycache__/
 *.pt
-*.ckpt
-*.csv
-*.xlsx
+*.bin
+*.safetensors
 .env
 data/raw/
+checkpoints/
