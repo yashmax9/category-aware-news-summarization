@@ -1,8 +1,10 @@
 transformers
 torch
 datasets
-pandas
-numpy
+sentencepiece
+accelerate
+gradio
+huggingface_hub
+evaluate
 rouge-score
 nltk
-gradio
